@@ -8,5 +8,6 @@ User can insert a todo record with a sample schema like:
 - duration
 - createdAt
  It have an automatically deleted after the assigned duration. That means if I create a task called "Interview Assignment" with duration set to 30 mins at 1:00pm on 1 January, the record in the database will be automatically removed at 1:30pm on 1st January.
+
 In this I have converted time into min hr aand sec for automatically deleteion of data.
 i have commited all the files at same time.
